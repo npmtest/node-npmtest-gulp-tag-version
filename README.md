@@ -1,6 +1,6 @@
 # npmtest-gulp-tag-version
 
-#### test coverage for  [gulp-tag-version (v1.3.0)](https://github.com/ikari-pl/gulp-tag-version#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-tag-version.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-tag-version) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-tag-version.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-tag-version)
+#### basic test coverage for  [gulp-tag-version (v1.3.0)](https://github.com/ikari-pl/gulp-tag-version#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-tag-version.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-tag-version) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-tag-version.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-tag-version)
 
 #### Tag git repository with current package version
 
